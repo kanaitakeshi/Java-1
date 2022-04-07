@@ -4,7 +4,7 @@
 
 1.文字列の表示【System.out.println();】
 2.入力値の受け取り【scanner.nextInt();】
-3.文字列の連結【　+　】
+3.文字列の連結【+】
 4.条件分岐【if文】
 5.クラスとメソッド分け【Main.java Person.java】　【printData()、fullName()、bmi()、isHealthy()】
 6.BMIを四捨五入【Math.round(bmi);】
