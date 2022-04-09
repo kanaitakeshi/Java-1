@@ -1,16 +1,18 @@
-## Java1　自己紹介プログラム
+## Java-1　自己紹介プログラム
 
-「条件分岐」、「繰り返し処理」、「メソッド」などの基礎知識を使って、
-人数・名前・名字・年齢・身長・体重を入力すると、成年か未成年かを判別、BMIを計算し健康かどうかを表示するプログラムを作成します。
-また、人数中の最高年齢と平均年齢を表示します。
+【概要】  
+1. 人数を入力　→　n人目を表示  
+2. 名前、名字、年齢、身長、体重を入力　→　名前、年齢（成年か未成年か）を表示、BMIを計算（健康か不健康か）を表示する  
+3. n人中の最高年齢と平均年齢を表示する
 
-1.文字列の表示【System.out.println();】
-2.入力値の受け取り【scanner.nextInt();】
-3.文字列の連結【+】
-4.条件分岐【if文】
-5.クラスとメソッドを分ける【class Main、 class Person】【printData()、fullName()、bmi()、isHealthy()】
-6.BMIを四捨五入【Math.round(bmi);】
-7.論理演算子と真偽値【&& boolean】
-8.繰り返し処理【for文】
-9.最高年齢【for文の中でmaxAgeを更新】
-10.平均年齢【for文の中でtotalAgeに加算、for文の外で人数nで割る】
+【内容】
+- 文字列の表示【System.out.println();】  
+- 入力値の受け取り【scanner.nextInt();】  
+- 文字列の連結【+】  
+- 条件分岐【if文】  
+- クラスとメソッドを分ける【class Main、 class Person】【printData()、fullName()、bmi()、isHealthy()】  
+- BMIを四捨五入【Math.round(bmi);】  
+- 論理演算子と真偽値【&& boolean】  
+- 繰り返し処理【for文】  
+- 最高年齢【for文の中でmaxAgeを更新】  
+- 平均年齢【for文の中でtotalAgeに加算、for文の外で人数nで割る】  
