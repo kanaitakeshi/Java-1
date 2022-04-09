@@ -8,7 +8,7 @@
 2.入力値の受け取り【scanner.nextInt();】
 3.文字列の連結【+】
 4.条件分岐【if文】
-5.クラスとメソッド【class Main、 class Person】【printData()、fullName()、bmi()、isHealthy()】
+5.クラスとメソッドを分ける【class Main、 class Person】【printData()、fullName()、bmi()、isHealthy()】
 6.BMIを四捨五入【Math.round(bmi);】
 7.論理演算子と真偽値【&& boolean】
 8.繰り返し処理【for文】
