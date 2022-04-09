@@ -6,7 +6,6 @@ class Main {
     
     System.out.print("何人分の情報を入力しますか：");
     int n = scanner.nextInt();
-    scanner.colse();
     
     int maxAge = 0;
     int totalAge = 0;
